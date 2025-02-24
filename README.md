@@ -39,5 +39,5 @@ What are the sales and revenue trends for the top 5 menu items?
 Optimize Pricing Strategy: Review the pricing of top-selling and low-revenue items to improve profit margins.
 Promote Low-Performing Categories: Target promotions for categories like Shakes and Sides to drive sales growth.
 Midweek Promotions: Introduce special offers to boost sales during midweek, especially on Wednesdays when sales typically dip.
-Conclusion:
+## Conclusion:
 This project demonstrates the power of data-driven insights for improving operational efficiency and revenue strategies at McDonald's. The dashboard serves as a powerful tool for decision-makers to monitor performance, identify areas for improvement, and develop targeted marketing campaigns.
