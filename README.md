@@ -13,7 +13,7 @@ The dataset provides detailed information on orders, menu items, and the time of
 - Corrected data types for all columns, especially date and time formats, aligning with the English US locale.
 
 ## Data Transformation:
-- Created new columns such as <Exact Hours>, Meal of the Day, and Time of Day based on order time.
+- Created new columns such as Exact Hours, Meal of the Day, and Time of Day based on order time.
 - Merged menu item prices with order details using common keys like item_id and menu_item_id.
 - Added features like Day Name, Month Name, Day of Week, and flagged orders as Weekend or Weekday.
 
